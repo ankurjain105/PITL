@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "10cacecd-8d41-4c2f-bd6a-59edae5eaac3": {
+      "ProjectGuid": "10cacecd-8d41-4c2f-bd6a-59edae5eaac3",
+      "DisplayName": "Petro.PowerService.Reports.Host",
+      "ColorIndex": 0
+    },
+    "30e281e8-133b-4df0-868a-65b80b2d31d4": {
+      "ProjectGuid": "30e281e8-133b-4df0-868a-65b80b2d31d4",
+      "DisplayName": "Petro.PowerService.BusinessLogic",
+      "ColorIndex": 1
+    },
+    "15e67f9d-ffd8-481a-b235-f14f8a4322a8": {
+      "ProjectGuid": "15e67f9d-ffd8-481a-b235-f14f8a4322a8",
+      "DisplayName": "Petro.PowerService.Reports.IntegrationTests",
+      "ColorIndex": 2
+    },
+    "934a8df4-78cb-4a73-a881-990f12614a1a": {
+      "ProjectGuid": "934a8df4-78cb-4a73-a881-990f12614a1a",
+      "DisplayName": "Petro.PowerService.BusinessLogic.UnitTests",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

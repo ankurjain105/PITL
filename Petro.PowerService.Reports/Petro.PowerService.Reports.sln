@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Petro.PowerService.BusinessLogic", "Petro.PowerService.BusinessLogic\Petro.PowerService.BusinessLogic.csproj", "{30E281E8-133B-4DF0-868A-65B80B2D31D4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Petro.PowerService.Reports.IntegrationTests", "Petro.PowerService.Reports.IntegrationTests\Petro.PowerService.Reports.IntegrationTests.csproj", "{08AF95B9-C50E-4552-BE91-6FB61DACC39B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Petro.PowerService.BusinessLogic.UnitTests", "Petro.PowerService.BusinessLogic.UnitTests\Petro.PowerService.BusinessLogic.UnitTests.csproj", "{934A8DF4-78CB-4A73-A881-990F12614A1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petro.PowerService.Host", "Petro.PowerService.Host\Petro.PowerService.Host.csproj", "{90DFABA1-1DC7-4DE7-A906-99A4FF0D0881}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F7E80B9F-9221-4863-81C2-4E6F94F559E6}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30E281E8-133B-4DF0-868A-65B80B2D31D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E281E8-133B-4DF0-868A-65B80B2D31D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E281E8-133B-4DF0-868A-65B80B2D31D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E281E8-133B-4DF0-868A-65B80B2D31D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08AF95B9-C50E-4552-BE91-6FB61DACC39B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08AF95B9-C50E-4552-BE91-6FB61DACC39B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08AF95B9-C50E-4552-BE91-6FB61DACC39B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08AF95B9-C50E-4552-BE91-6FB61DACC39B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{934A8DF4-78CB-4A73-A881-990F12614A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{934A8DF4-78CB-4A73-A881-990F12614A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{934A8DF4-78CB-4A73-A881-990F12614A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{934A8DF4-78CB-4A73-A881-990F12614A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90DFABA1-1DC7-4DE7-A906-99A4FF0D0881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90DFABA1-1DC7-4DE7-A906-99A4FF0D0881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90DFABA1-1DC7-4DE7-A906-99A4FF0D0881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90DFABA1-1DC7-4DE7-A906-99A4FF0D0881}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C5F561D-A818-4119-A62E-DC4C7FAB1A6B}
+	EndGlobalSection
+EndGlobal
